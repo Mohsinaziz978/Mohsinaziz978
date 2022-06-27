@@ -14,7 +14,7 @@ def window():
         Timer = 10 #(10 seconds)
 
         #youtube link
-        link = 'https://www.youtube.com/watch?v=DOWidyclBzc'
+       link = 'https://www.youtube.com/watch?v=DOWidyclBzc'
 
         #number of views
         views = 300
